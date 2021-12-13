@@ -1,0 +1,81 @@
+h1{
+    text-align: center;
+    background-color: rgb(154,224,241);
+}
+
+div.valencia{
+    background-image: url(/CSS2/muralla.jpg);
+    float: both;
+    width: 100;
+    height: 100;
+    border: black 1px solid;
+    font-family: sans-serif;
+    color: rgb(0, 102, 255);
+    font-size: small;
+    font-weight: bold;
+}
+
+div.antiguo{
+    background-color: lightblue;
+    text-align: center;
+}
+
+div.centrado{
+    text-align: center;
+}    
+
+img.anteriormente{
+    width: 200px;
+    height: 150px;
+}
+
+div.imagen{
+    text-align: center;
+}
+
+
+img.bioparc:hover{
+    opacity: 1.0;
+}
+
+img.plaza{
+    width: 130px;
+    height: 100px;
+    opacity: 0.5;
+}
+
+img.plaza:hover{
+    opacity: 1.0;
+}
+img.rio{
+    width: 130px;
+    height: 100px;
+    opacity: 0.5;
+}
+
+img.rio:hover{
+    opacity: 1.0;
+}
+
+img.puerto{
+    width: 130px;
+    height: 100px;
+    opacity: 0.5;
+}
+
+img.puerto:hover{
+    opacity: 1.0;
+}
+
+img.bioparc{
+    width: 130px;
+    height: 100px;
+    opacity: 0.5;
+}
+
+
+span:hover{
+    background-color: rgb(140, 222, 243);
+    font-weight: bold;
+}
+
